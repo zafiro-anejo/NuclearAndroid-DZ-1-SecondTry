@@ -1,5 +1,5 @@
-package org.example
-
 fun main() {
+    val cinema = Cinema()
 
+    cinema.cinemaMenuDisplay()
 }
